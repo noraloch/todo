@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.mytodo'
+    namespace 'com.nora.mytodo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.mytodo"
+        applicationId "com.nora.mytodo"
         minSdk 25
         targetSdk 33
         versionCode 1
