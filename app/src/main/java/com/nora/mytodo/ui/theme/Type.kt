@@ -1,4 +1,4 @@
-package com.example.mytodo.ui.theme
+package com.nora.mytodo.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.mytodo
+package com.nora.mytodo
 
 import org.junit.Test
 
